@@ -4,7 +4,9 @@ title: O mně
 permalink: /o-mne/
 ---
 
-Awesome blog of perfect things!
+Skvělý blog plný úžasných věcí!
+
+![obrázek](https://images.unsplash.com/photo-1447684808650-354ae64db5b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
 
 ---
 
