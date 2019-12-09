@@ -3,20 +3,7 @@ layout: page
 title: O mně
 permalink: /o-mne/
 ---
-
-Skvělý blog plný úžasných věcí!
-
-![obrázek](jairo-alzate-sssxyuZape8-unsplash.jpg)
-
--tohle
--je
--bodový
--seznam
-
-1.a
-2.tohle
-3.číslovaný
-4.seznam
+co se bude dít?
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
