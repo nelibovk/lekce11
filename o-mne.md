@@ -4,7 +4,7 @@ title: O mně
 permalink: /o-mne/
 ---
 
-Tady napiš něco o sobě nebo o svém blogu!
+Awesome blog of perfect things!
 
 ---
 
