@@ -6,8 +6,17 @@ permalink: /o-mne/
 
 Skvělý blog plný úžasných věcí!
 
-![obrázek](https://images.unsplash.com/photo-1447684808650-354ae64db5b8?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60)
+![obrázek](jairo-alzate-sssxyuZape8-unsplash.jpg)
 
+-tohle
+-je
+-bodový
+-seznam
+
+1.a
+2.tohle
+3.číslovaný
+4.seznam
 ---
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
